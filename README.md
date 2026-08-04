@@ -1,12 +1,12 @@
 <div align="center">
   
   # 👨‍💻 Nguyễn Văn Hiền Nhân
-  ### 4th-year IT Student | Aspiring Backend & Data Engineer
+  ### 4th-year IT Student
 
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:nhanhn0512@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/hiền-nhân-254a09356/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://your-portfolio-link.com">
@@ -22,10 +22,10 @@
 
 I am a senior Information Technology student at **Saigon University**, deeply passionate about software architecture, database design, and data processing. I am currently seeking a **Backend / Data Engineering Internship** to contribute to real-world projects and further develop my technical expertise.
 
-- 📖 **Education:** B.S. in Information Technology, Saigon University (Expected Graduation: 2026)
-- 🎯 **Core Focus:** Backend Architecture, Relational Databases (Normalization, EER), and integrating AI tools into practical applications (e.g., educational platforms).
-- 🌱 **Currently Learning:** Advanced DevOps practices (Docker, CI/CD) and Data Pipeline optimization.
-- ⚡ **Fun Fact:** I love solving complex mathematical logic problems and algorithmic challenges!
+- 📖 **Education:** B.S. in Information Technology, Saigon University (Expected Graduation: 2028)
+- 🎯 **Core Focus:**
+- 🌱 **Currently Learning:** 
+- ⚡ **Fun Fact:** 
 
 ---
 
@@ -53,28 +53,13 @@ I am a senior Information Technology student at **Saigon University**, deeply pa
 
 ### 🚀 Highlighted Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <b>🎓 AI-Powered Educational Application</b><br/>
-      <i>Java, PostgreSQL, AI Integration</i><br/>
-      A system designed to integrate AI tools into the educational framework, managing complex user data and providing automated, intelligent commentary. Focus on robust backend API and secure database architecture. <br/>
-      <a href="https://github.com/your-username/project-link">🔗 View Source</a>
-    </td>
-    <td width="50%">
-      <b>🛒 E-Commerce / Service Backend System</b><br/>
-      <i>PHP, SQL Server</i><br/>
-      Developed a comprehensive backend with highly normalized database schemas (up to 3NF) utilizing EER diagrams. Implemented secure login systems and optimized SQL queries for high-performance data retrieval.<br/>
-      <a href="https://github.com/your-username/project-link">🔗 View Source</a>
-    </td>
-  </tr>
-</table>
+
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hiennhann&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiennhann&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
