@@ -20,7 +20,7 @@
 
 ### 🎓 About Me
 
-I am a senior Information Technology student at **Saigon University**, deeply passionate about software architecture, database design, and data processing. I am currently seeking a **Backend / Data Engineering Internship** to contribute to real-world projects and further develop my technical expertise.
+I am a senior Information Technology student at **Saigon University**, deeply passionate about software architecture, database design, and data processing. I am currently seeking a **Backend / DevOps** to contribute to real-world projects and further develop my technical expertise.
 
 - 📖 **Education:** B.S. in Information Technology, Saigon University (Expected Graduation: 2028)
 - 🎯 **Core Focus:**
