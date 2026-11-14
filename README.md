@@ -63,8 +63,8 @@ I'm interested in Backend Development and want to learn more about DevOps in the
 - Prisma ORM
 
 **Tools & Technologies**
-- Git & GitHub
-- Docker & Docker Compose
+- Git
+- Docker
 - Postman
 
 **Other**
