@@ -24,7 +24,7 @@
 
 Hi! I'm Hiền Nhân, a fourth-year Information Technology student at **Saigon University (SGU)**.
 
-I'm currently looking for an internship opportunity in Backend Development. I have basic knowledge of C#, Python, SQL, and PostgreSQL. I have also used Git, GitHub, Docker, and Postman in my projects.
+I'm currently looking for an internship opportunity in Backend Development. I have basic knowledge of C#, Python, SQL, and PostgreSQL. I have also used, GitHub, Docker, and Postman in my projects.
 
 Through university and personal projects, I have learned how to work with APIs, databases, and build web applications.
 
@@ -35,8 +35,7 @@ I'm interested in Backend Development and want to learn more about DevOps in the
 **Saigon University (SGU)**
 
 - Major: Information Technology
-- Academic Level: Fourth-year Student
-- Expected Graduation: 2028
+- Academic Level: Fourth-year Student (2023 - present)
 
 ### Technical Skills
 
