@@ -41,17 +41,35 @@ I'm interested in Backend Development and want to learn more about DevOps in the
 ### Technical Skills
 
 **Programming Languages**
-- C# (Basic)
-- Python (Basic)
+- C#
+- Python
+- TypeScript
+- JavaScript
 
-**Database**
-- SQL (Basic)
-- PostgreSQL (Basic)
+**Backend Development**
+- ASP.NET Core
+- NestJS
+- RESTful API
 
-**Tools**
-- Git & GitHub (Basic)
-- Docker (Basic)
-- Postman (Basic)
+**Frontend Development**
+- HTML
+- CSS
+- React
+- Next.js
+
+**Database & ORM**
+- SQL
+- PostgreSQL
+- Prisma ORM
+
+**Tools & Technologies**
+- Git & GitHub
+- Docker & Docker Compose
+- Postman
+
+**Other**
+- Excel Data Processing
+- GitHub Pages
 
 ### Projects
 
