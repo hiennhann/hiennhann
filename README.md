@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Nguyễn Văn Hiền Nhân
 
@@ -39,36 +39,51 @@ I'm interested in Backend Development and want to learn more about DevOps in the
 
 ### Technical Skills
 
-**Programming Languages**
-- C#
-- Python
-- TypeScript
-- JavaScript
-
-**Backend Development**
-- ASP.NET Core
-- NestJS
-- RESTful API
-
-**Frontend Development**
-- HTML
-- CSS
-- React
-- Next.js
-
-**Database & ORM**
-- SQL
-- PostgreSQL
-- Prisma ORM
-
-**Tools & Technologies**
-- Git
-- Docker
-- Postman
-
-**Other**
-- Excel Data Processing
-- GitHub Pages
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Programming Languages</strong><br><br>
+      • C#<br>
+      • Python<br>
+      • TypeScript<br>
+      • JavaScript
+    </td>
+    <td valign="top" width="50%">
+      <strong>Backend Development</strong><br><br>
+      • ASP.NET Core<br>
+      • NestJS<br>
+      • RESTful API
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Frontend Development</strong><br><br>
+      • HTML<br>
+      • CSS<br>
+      • React<br>
+      • Next.js
+    </td>
+    <td valign="top" width="50%">
+      <strong>Database &amp; ORM</strong><br><br>
+      • SQL<br>
+      • PostgreSQL<br>
+      • Prisma ORM
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Tools &amp; Technologies</strong><br><br>
+      • Git<br>
+      • Docker<br>
+      • Postman
+    </td>
+    <td valign="top" width="50%">
+      <strong>Other</strong><br><br>
+      • Excel Data Processing<br>
+      • GitHub Pages
+    </td>
+  </tr>
+</table>
 
 ### Projects
 
