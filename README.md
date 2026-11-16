@@ -31,37 +31,6 @@ Hi! I'm Hiền Nhân, a fourth-year Information Technology student at **Saigon U
 ### Technical Skills
 
 
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Programming Languages</strong><br><br>
-      
-    </td>
-    <td valign="top" width="50%">
-      <strong>Backend Development</strong><br><br>
-      
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Frontend Development</strong><br><br>
-      
-    </td>
-    <td valign="top" width="50%">
-      <strong>Database &amp; ORM</strong><br><br>
-      
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Tools &amp; Technologies</strong><br><br>
-    
-    </td>
-    <td valign="top" width="50%">
-      <strong>Other</strong><br><br>
-    
-    </td>
-  </tr>
-
 ### Projects
 
 
